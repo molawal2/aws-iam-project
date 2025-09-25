@@ -12,19 +12,17 @@ Three users were created: AdminUser, AnalystUser, and InternUser, each with diff
 ## Screenshots
 ### AdminUser
 - Upload succeeded  
-![Admin Upload](screenshots/admin_upload.png)  
+[![Admin Upload](screenshots/admin_upload.png)  ](https://github.com/molawal2/aws-iam-project/blob/main/admin%20user%20upload%20success.PNG)
 - Delete succeeded  
 [![Admin Delete](screenshots/admin_delete.png)  ](https://github.com/molawal2/aws-iam-project/blob/main/admin%20user%20delete%20success.PNG)
 
 ### AnalystUser
 - Upload failed (read-only)  
-![Analyst Upload Fail](screenshots/analyst_upload_fail.png)  
-
-### InternUser
-- Can list bucket but cannot view files  
-![Intern Bucket List](screenshots/intern_list.png)  
+[[![Analyst Upload Fail](screenshots/analyst_upload_fail.png)  
+](https://github.com/molawal2/aws-iam-project/blob/main/analyst%20user%20upload%20failed.PNG)](https://github.com/molawal2/aws-iam-project/blob/main/analyst%20user%20upload%20failed.PNG)
+### InternUser 
 - File access denied  
-![Intern File Fail](screenshots/intern_fail.png)  
+[![Intern File Fail](screenshots/intern_fail.png)  ](https://github.com/molawal2/aws-iam-project/blob/main/intern%20user.PNG)
 
 ## Learning Outcomes
 - Hands-on experience managing IAM users and policies in AWS  
